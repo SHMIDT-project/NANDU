@@ -1,2 +1,1 @@
-# NANDU
-Training
+Hello,SHMIDT
